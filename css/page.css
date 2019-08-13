@@ -1,3 +1,19 @@
+@font-face {
+    font-family: 'Publico Headline Web';
+    src: url('PublicoHeadline-Bold-Web.eot');
+    src: url('PublicoHeadline-Bold-Web.eot?#iefix') format('embedded-opentype'),
+    url('PublicoHeadline-Bold-Web.woff2') format('woff2'),
+    url('PublicoHeadline-Bold-Web.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
+.PublicoHeadline-Bold-Web {
+    font-family: 'Publico Headline Web';
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+}
 .content-wrapper{
     width:1200px;
     height:720px;
